@@ -183,7 +183,9 @@ public:
 ## Полезные ресурсы
 
 - **SFML Документация:** [https://www.sfml-dev.org/documentation/](https://www.sfml-dev.org/documentation/)
-- **Руководство по созданию библиотек в C++:** [LearnCpp - Static and Dynamic Libraries](https://www.learncpp.com/cpp-tutorial/introduction-to-the-compiler-linker-and-libraries/)
+- **Файл SFML_info.MD подготовленный для данного семинара:** [https://github.com/NimblePython/seminar-7/blob/main/SFML_info.MD/](https://github.com/NimblePython/seminar-7/blob/main/SFML_info.MD)
+- **Руководство по созданию библиотек в C++:** Смотрите лекции на страницах moodle университета
+- **Справка по структуре программ в C++:** [LearnCpp - Static and Dynamic Libraries](https://www.learncpp.com/cpp-tutorial/introduction-to-the-compiler-linker-and-libraries/)
 - **Примеры использования C++ Casts:** [cppreference.com - C++ Cast Operators](https://en.cppreference.com/w/cpp/language/explicit_cast)  
 - **Уроки по C++ Casts:** [cplusplus.com - Type conversions](https://cplusplus.com/doc/tutorial/typecasting/)
 
